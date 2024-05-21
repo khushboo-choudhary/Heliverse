@@ -1,3 +1,36 @@
+# Heliverse Assignment
+I have cloned the MotionArt static webpage using React + Tailwind CSS and deployed it on Vercel.
+
+# Run in local and Installation
+
+    1. Clone the repo
+
+>        ### git clone https://github.com/khushboo-choudhary/Heliverse.git
+
+>        ### cd heliverse
+
+    2. Install NPM Packages
+        
+>        ### npm install
+
+    3. Build and Start the Server
+            
+>        ### npm start
+
+    4. Vercel Link 
+
+>        ### `https://heliverse-khaki.vercel.app/`    
+
+
+## How website look like
+
+**You can go through the whole website deployed link is —**
+[https://hyggex-lime.vercel.app/](https://heliverse-khaki.vercel.app/)
+
+### ScreenShots
+
+![responsivedesign](https://github.com/khushboo-choudhary/Heliverse/assets/30701525/6e74e979-33a1-41fb-8833-6b4764d4be90)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
