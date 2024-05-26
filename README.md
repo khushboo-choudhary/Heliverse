@@ -25,7 +25,7 @@ I have cloned the MotionArt static webpage using React + Tailwind CSS and deploy
 ## How website look like
 
 **You can go through the whole website deployed link is —**
-[https://hyggex-lime.vercel.app/](https://heliverse-khaki.vercel.app/)
+[https://heliverse-khaki.vercel.app/](https://heliverse-khaki.vercel.app/)
 
 ### ScreenShots
 
